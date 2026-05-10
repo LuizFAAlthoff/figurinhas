@@ -7,10 +7,17 @@ Uma rede social gamificada baseada no colecionismo de figurinhas digitais. Usuá
 O projeto preenche a lacuna entre redes sociais tradicionais de compartilhamento de fotos e a experiência nostálgica/viciante de colecionar álbuns de figurinhas físicos, adicionando camadas de personalização e gamificação (trocas e abertura de pacotes).
 
 ## 3. Público-Alvo
-*Em definição...*
+Entusiastas de redes sociais, colecionadores (físicos ou digitais), jovens (Gen Z/Alpha) interessados em gamificação e personalização, e comunidades de criadores de conteúdo que buscam novas formas de engajamento com seguidores.
 
 ## 4. Requisitos Principais
-*Em definição...*
+- **Criação de Stickers:** Upload de fotos/GIFs e transformação em figurinhas com tags de autoria.
+- **Sistema de Tags/Inscrição:** Seguidores podem se inscrever nas tags de criadores para receber figurinhas específicas em seus pacotes.
+- **Distribuição de Pacotes:** Baseada em tempo (recompensa diária) e gatilhos de interação social (likes, posts, trocas).
+- **Sistema de Raridade:**
+    - Categorias: Comum, Rara, Épica.
+    - Variante Especial: "Shiny" (chance pequena de ocorrer em qualquer categoria).
+- **Marketplace de Trocas:** Interface para negociação de figurinhas entre usuários.
+- **Social Feed:** Feed de postagens de amigos com suporte a exibição de conquistas do álbum.
 
 ## 5. Diferenciais e Sucesso
 *Em definição...*
