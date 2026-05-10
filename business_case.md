@@ -11,32 +11,23 @@ Entusiastas de redes sociais, colecionadores (físicos ou digitais), jovens (Gen
 
 ## 4. Requisitos Principais
 - **Plataformas:** MVP Web para validação rápida + App Mobile Nativo para experiência completa.
-- **Tipos de Coleção:**
-    - **Oficiais:** Curadas pela plataforma, sazonais, garantem alta qualidade e engajamento global.
-    - **Independentes:** Criadas por usuários, permitindo nichos e personalização total.
-- **Onboarding:** Sugestão de perfis relevantes e entrega de pacotes de coleções oficiais para garantir engajamento imediato.
-- **Interface do Álbum (Híbrida):** 
-    - Navegação vertical entre diferentes coleções/temas.
-    - Navegação horizontal (carrossel) de páginas dentro de cada coleção.
-    - Layout de páginas fixas para manter a sensação de álbum clássico.
-- **Criação de Stickers (Autoria):** 
-    - Upload de fotos/GIFs e transformação em figurinhas.
-    - O autor define o "Template de Colagem": posição (x, y), zoom, rotação e efeitos para cada figurinha na página (1 a 8 figurinhas por página).
-- **Controle de Privacidade e Tags:**
-    - Autores definem quem pode se inscrever em suas tags (Público, Amigos Próximos, Grupos Específicos).
-    - Mecanismo de denúncia e solicitação de remoção por uso indevido de imagem.
-- **Mecânica de Coleção:** Usuários que seguem um autor recebem as páginas do autor em seus álbuns. Ao colarem uma figurinha, ela assume automaticamente a estética (coordenadas/rotação) definida pelo autor original.
-- **Distribuição de Pacotes:** Baseada em tempo (recompensa diária) e gatilhos de interação social (likes, posts, trocas).
-- **Sistema de Raridade:** Categorias (Comum, Rara, Épica) + Variante Especial "Shiny".
-- **Sistema de Trocas:** Restrito a amigos/seguidores para incentivar conexões; baseado em propostas formais (Aceitar/Recusar).
-- **Social Feed:** Feed de postagens de amigos com suporte a exibição de conquistas do álbum.
-- **Moderação:** Sistema de denúncia pela comunidade (pós-moderação).
+- **Tipos de Coleção:** Oficiais (plataforma/sazonais) e Independentes (usuários/seguidores).
+- **Onboarding:** Sugestão de perfis e pacotes de boas-vindas oficiais.
+- **Interface do Álbum (Híbrida):** Navegação vertical (coleções) e horizontal (carrossel de páginas).
+- **Criação de Stickers (Autoria):** Upload de mídias e definição de "Template de Colagem" (x, y, zoom, rotação).
+- **Mecânica de Coleção:** Seguidores herdam o layout do autor. O álbum é expansível infinitamente conforme novas conexões são feitas.
+- **Ciclo de Figurinhas Repetidas:**
+    - Figurinhas repetidas podem ser trocadas ou "re-coladas" na mesma vaga.
+    - Re-colagem incrementa um contador visual e gera uma chance aleatória de transformar a figurinha em "Shiny".
+- **Conclusão de Coleção:** Completar uma coleção (sazonal ou independente) pode conceder uma figurinha especial de recompensa definida pelo autor/plataforma.
+- **Distribuição de Pacotes:** Baseada em tempo e interações sociais.
+- **Sistema de Trocas:** Restrito a conexões (amigos/seguidores) via propostas.
+- **Moderação:** Sistema de denúncia pela comunidade (pós-moderação) e controles de privacidade de tags.
 
 ## 5. Diferenciais e Sucesso
-- **Diferencial:** "Layout de Autoria": o autor da coleção age como o "designer" do álbum para seus seguidores.
-- **Estratégia Social:** O sistema de trocas restrito e as tags privadas transformam a coleção em um ativo de rede.
-- **Monetização (MVP):** Gratuito. Futuro: Cobrança para transformar stickers em "Shiny".
-- **Métricas de Sucesso:** Taxa de retenção diária (abertura de pacotes) e volume de trocas entre usuários.
+- **Diferencial:** "Layout de Autoria" e o loop de gameplay de repetidas (re-colagem para Shiny).
+- **Engajamento:** O álbum infinito e a economia de trocas baseada em conexões sociais.
+- **Monetização (MVP):** Gratuito. Futuro: Pagamento direto para "Shiny" garantido.
 
 ---
-*Documento atualizado dinamicamente durante o processo de entrevista.*
+*Documento finalizado após processo de definição de business case.*
