@@ -23,9 +23,13 @@ Entusiastas de redes sociais, colecionadores (físicos ou digitais), jovens (Gen
     - Variante Especial: "Shiny" (chance pequena de ocorrer em qualquer categoria).
 - **Sistema de Trocas:** Baseado em propostas formais (Usuário A propõe X por Y; Usuário B aceita ou recusa).
 - **Social Feed:** Feed de postagens de amigos com suporte a exibição de conquistas do álbum.
+- **Sazonalidade:** Lançamento de coleções temporárias (janela de tempo para obter), mas posse permanente após adquiridas.
+- **Moderação:** Sistema de denúncia pela comunidade (pós-moderação).
 
 ## 5. Diferenciais e Sucesso
-*Em definição...*
+- **Diferencial:** O modelo de "Sticker-as-a-Social-Interaction" e a economia de tags de criadores.
+- **Monetização (MVP):** Gratuito. Futuro: Cobrança para transformar stickers em "Shiny".
+- **Métricas de Sucesso:** Taxa de retenção diária (abertura de pacotes) e volume de trocas entre usuários.
 
 ---
 *Documento atualizado dinamicamente durante o processo de entrevista.*
