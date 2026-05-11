@@ -49,3 +49,11 @@ Entusiastas de redes sociais, colecionadores (físicos ou digitais), jovens (Gen
 - **Estratégia de Notificações:**
     - **Foco:** Notificações Silenciosas (In-app).
     - **Filosofia:** Recompensar a proatividade e a dedicação dos usuários ("usuários orgânicos"), aumentando a satisfação intrínseca da descoberta e conclusão de álbuns em comparação com usuários casuais.
+
+## 8. Estrutura de Feed e Criação (Adicionado em 10/05/2026)
+- **Feed Híbrido Contextual:**
+    - O conteúdo social (posts, fotos, conquistas e virais) é exibido de forma embutida dentro das seções das coleções no álbum.
+    - O scroll vertical navega pelas coleções, e o conteúdo exibido (posts de amigos ou virais) é filtrado pelo contexto (tag) da coleção visualizada no momento.
+- **Gestão de Conteúdo (Criação Livre):**
+    - **Criação:** Qualquer usuário pode criar coleções e figurinhas sem validação prévia.
+    - **Filtro:** A qualidade e segurança do conteúdo serão geridas pela própria comunidade através de um sistema de denúncias (reports). Coleções com alto índice de denúncia serão removidas automaticamente ou enviadas para revisão.
