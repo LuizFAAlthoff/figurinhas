@@ -31,3 +31,13 @@ Entusiastas de redes sociais, colecionadores (físicos ou digitais), jovens (Gen
 
 ---
 *Documento finalizado após processo de definição de business case.*
+
+## 6. Detalhes de Crescimento e Economia (Adicionado em 10/05/2026)
+- **Cadência de Recompensas:**
+    - **Por Tempo:** 1 pacote a cada 4 horas, com acúmulo máximo de até 10 pacotes (incentiva o retorno regular sem punir ausências curtas).
+    - **Por Interação Social:** Curtir ou comentar em postagens vinculadas a tags de autor gera pacotes daquela tag específica.
+    - **Limites de Interação:** Máximo de 1 pacote por tag, por usuário, por dia, para evitar spam e garantir a escassez.
+- **Estratégia de Crescimento:**
+    - **Referral:** Sistema de recompensas para usuários que indicarem novos membros.
+    - **Acesso:** Criação de conta livre (sem necessidade de convite), mas sem as premiações de indicação.
+- **Temática de Lançamento:** Foco em Temas Populares (Memes, Cultura Pop, etc.) para maximizar o apelo emocional inicial.
