@@ -41,3 +41,11 @@ Entusiastas de redes sociais, colecionadores (físicos ou digitais), jovens (Gen
     - **Referral:** Sistema de recompensas para usuários que indicarem novos membros.
     - **Acesso:** Criação de conta livre (sem necessidade de convite), mas sem as premiações de indicação.
 - **Temática de Lançamento:** Foco em Temas Populares (Memes, Cultura Pop, etc.) para maximizar o apelo emocional inicial.
+
+## 7. UX e Engajamento (Adicionado em 10/05/2026)
+- **Perfil e Feed "Álbum-Centristas":**
+    - O perfil do usuário prioriza a exibição de suas coleções e progresso.
+    - **Conceito de Feed:** O feed principal será a evolução das páginas dos álbuns (amigos colando figurinhas, completando coleções, etc.), transformando o ato de colecionar em um evento social contínuo.
+- **Estratégia de Notificações:**
+    - **Foco:** Notificações Silenciosas (In-app).
+    - **Filosofia:** Recompensar a proatividade e a dedicação dos usuários ("usuários orgânicos"), aumentando a satisfação intrínseca da descoberta e conclusão de álbuns em comparação com usuários casuais.
